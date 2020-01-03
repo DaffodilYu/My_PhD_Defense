@@ -2,6 +2,16 @@
 
 The presentation is written by Latex. 
 
+## Outline 
+- Introduction: Neuromorphic computation
+- Methods: Fabrication and Characterization
+- Observations: Persistent Photoconductance, Photocarrier accumulation & depletion
+- Interpretation: Theoretical Models
+- Applications: Cognitive tasks in artificial network
+- Outlook and Perspectives: artificial vision
+- Conclusion
+
+## animations
 The animations are presented in the 
  - Slide 4- Von Neumann Architecture
  - Slide 7- STDP learning rule
@@ -9,12 +19,3 @@ The animations are presented in the
  - Slide 22- Depletion caused by Quantum tunneling. 
  
  The Adobe PDF reader can run the animations.
-
-## Outline 
-1 Introduction: Neuromorphic computation
-2 Methods: Fabrication and Characterization
-3 Observations: Persistent Photoconductance, Photocarrier accumulation & depletion
-4 Interpretation: Theoretical Models
-5 Applications: Cognitive tasks in artificial network
-6 Outlook and Perspectives: artificial vision
-7 Conclusion
